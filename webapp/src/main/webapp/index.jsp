@@ -100,7 +100,7 @@ h1{
 		
         </header>
          <h1> ****iphone, Laptop & Mobile 50% Off available, any other gadget 75% off  from 28th April 2024 till 30th april 2024**** </h1>   
-	 
+	 <hi> if u r stupid everything is free </h1>
 
     </section>    
     <section id="about"><h1>This Is About</h1></section>
