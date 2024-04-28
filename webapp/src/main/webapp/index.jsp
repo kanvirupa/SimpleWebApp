@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Laptop & Mobile 50% Off available from 28th April 2024 till 30th april 2024**** </h1>   
+         <h1> ****iphone, Laptop & Mobile 50% Off available, any other gadget 75% off  from 28th April 2024 till 30th april 2024**** </h1>   
 	 
 
     </section>    
